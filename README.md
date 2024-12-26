@@ -26,7 +26,7 @@ Piyufy is a Spotify clone built by Sanchit &amp; Kunal using HTML, CSS, and Java
 
 * Hover Effects :   Enhance hover effects on cards, buttons, and icons for better interactivity.
 
-* Some Req Features to include :
+-->  Some Req Features to include :
 
 - [ Allow User to stream songs together with their loved ones ]
 
@@ -35,7 +35,7 @@ Piyufy is a Spotify clone built by Sanchit &amp; Kunal using HTML, CSS, and Java
 - Interactive Playlists : Allow users to create, edit, and delete playlists directly on the platform.
 - Allow users to follow their favorite artists, share playlists, or interact with friends via collaborative playlists.
 
-* Adjustments:
+-->  Adjustments:
 
 - Sidebar Visibility: Improve visibility or accessibility of the sidebar on smaller devices.
 
